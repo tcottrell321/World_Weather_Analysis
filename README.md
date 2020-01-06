@@ -14,5 +14,6 @@ There are 4 parts to this analysis:
 # Files Uploaded to Repository
 * These files were uploaded for the courseware exercises - VacationPy and WeatherPy
 * Challenge Part 1 - Weather_Database (python source code), Weather_challenge.csv
+    ## Part 1 Question on "How Many Cities Had Rain or Snow?" 86 but results varied slightly each time you generate the cities. 
 * Challenge Part 2 - Vacation_Search (python source code), WeatherPy_vacation.csv, plus png images
 * Challenge Part 3 - Vacation_Iternery (python source code), and additional images. 
